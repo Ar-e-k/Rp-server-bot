@@ -1,0 +1,23 @@
+public info: {
+government type (string),/
+size (kilometers squared),/
+population (int(r100) ???),/
+relative tec level (supirior, equivelent, infirior),
+relative income (superior, equevilent, infirior),
+country characteristics to be defined ...,
+description (long sting),
+trade influence (int(0-100, .0)???),
+culture (string),/
+foren relationships to be defined ...,
+capital (string)/
+}
+private info: {
+budget (int(.2)),/
+spendings (int(.2),/
+tax_rate (int(.0)),/
+army size (int(.0)),/
+owned tech ...,
+litaracy rounded (high, low, medium),/
+stability rounded (high, low, medium),/
+exact population proportions [rural, army, unemployed, industrail] (int(r100)???)/(not rounded yet)
+}

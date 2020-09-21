@@ -1,0 +1,33 @@
+State,Literacy,Technology_spending,Benefits_spending,Economy_spending,Tax_rate,Budget,Population,Stability,Economy_tier,Stability_mod,Form,Capital,Culture,Area,Army,Navy,Tech,Trade
+Altafia,20,0,0,0,25,0,749923,60,Rural3,Tier7,Kingdom,Witon,Altafian,28521,"['528', '145', '74', '19', '0']","['38', '3', '28']",0,45
+Barsippia,5,0,0,0,30,0,410074,50,Rural2,Tier2,Khaganate,Haudavikka,Inuk,29637,"['109', '27', '112', '2', '0']","['0', '0', '0']",0,5
+Bockjǫrð,3,0,0,0,45,2000000,25992,50,Rural1,Tier1,United Tribes,Wolsi,Wildlands,4626,"[‘35’, ‘20’, ‘0’, ‘0’, ‘0’]","[‘20’, ‘0’, ‘0’]",0,20
+City of Bolrech,18,0,0,0,20,0,326745,70,Ind3,Tier8,City-state,Bolrech,Altafian,16173,"['130', '27', '5', '14', '0']","['48', '2', '12']",0,87
+Clifia,1,0,0,0,55,0,76264,50,Rural1,Tier9,Khaganate,Dunter,Inuk,35946,"['104', '40', '22', '3', '0']","['0', '0', '0']",0,2
+Fiskrbjǫð,8,0,0,0,30,0,119448,50,Rural1,Tier1,United Tribes,Tgotneset,Vikrock,13446,"[‘46’, ‘40’, ‘0’, ‘0’, ‘0’]","[‘20’, ‘0’, ‘0’]",0,5
+Halrheimr,6,0,0,0,30,0,240955,50,Rural2,Tier1,United Tribes,Hjaltadalr,Vikrock,36441,"[‘114’, ‘24’, ‘0’, ‘0’, ‘0’]","[‘39’, ‘3’, ‘8’]",0,15
+Hamarrbjǫð,3,0,0,0,30,0,78045,50,Rural1,Tier1,United Tribes,Helgefaf,Vikrock,4419,"[‘33’, ‘20’, ‘0’, ‘0’, ‘0’]","[‘10’, ‘0’, ‘0’]",0,0
+Horfieldia,3,0,0,0,30,0,58681,50,Rural1,Tier1,United Tribes,Onvik,Vikrock,8577,"[‘30, ‘3’, ‘0’, ‘0’, ‘0’]","[‘10’, ‘0’, ‘0’]",0,5
+Kaldrland,4,0,0,0,45,2000000,21394,50,Rural1,Tier1,United Tribes,Grof,Vikrock,7200,"[‘45’, ‘3’, ‘0’, ‘0’, ‘0’]","[‘16’, ‘0’, ‘12’]",0,5
+Kemilinpia,1,0,0,0,60,0,1535340,38,Mix1,Tier3,Kingdom,Presterbot,Komelian,443214,"['1035', '251', '59', '8', '0']","['43', '5', '12']",0,10
+Kingdom of Marzelia,12,0,0,0,30,0,1307706,55,Ind2,Tier5,United Kingdom,Shapelten,Marzelian,59031,"['869', '284', '71', '34', '0']","['74', '9', '44']",0,60
+Kingdom of Tarynthia,12,0,0,0,50,0,2408845,20,Rural2,Tier4,Kingdom,Calton,Causian,155691,"['839', '212', '89', '15', '0']","['48', '6', '17']",0,40
+Kipheimia,15,0,0,0,30,0,1100480,50,Rural2,Tier7,Republic,Wamerter,Kipheimian,64188,"['532', '134', '78', '19', '0']","['15', '1', '12']",0,15
+Kurikoshi Shogunate,10,0,0,0,30,0,655808,70,Rural3,Tier10,Shogunate,Kakami,Shingata,29421,"['688', '262', '87', '20', '0']","['45', '7', '22']",0,10
+Parmuutiovi Confederation,5,0,0,0,15,0,1639467,50,Rural2,Tier4,Confederation,Keoonopio,Parmuutic,95886,"['707', '303', '69', '36', '0']","['51', '7', '27']",0,80
+Republic of Durheimia,12,0,0,0,25,0,784580,70,Rural3,Tier7,Republic,Bethom,Kipheimian,52164,"['472', '252', '36', '12', '0']","['0', '0', '0']",0,30
+Seogjin Empire,6,0,0,0,30,0,5257243,30,Mix1,Tier1,Empire,Chunhui,Guantzu,235467,"['1280', '475', '112', '16', '0']","['0', '0', '0']",0,50
+Seogjin Peoples Rebellion,1,0,0,0,70,75000000,1345752,30,Rural2,Tier1,Republic,Manter,Guantzu,67311,"[‘750’, ‘310’, ‘73’, ‘15’, ‘5140’]","[‘0’, ‘0’, ‘0’]",0,5
+Snærjǫrð,3,0,0,0,32,75000,55591,50,Rural1,Tier1,Tribes,Olarfug,Vikrock,24543,"[‘28’, ‘1’, ‘0’, ’0’, ‘0’]","[‘15’, ‘1’, ‘1’]",0,2
+The Commonwealth of Utweiland,10,0,0,0,50,0,2663990,27,Rural2,Tier3,Commonwealth,Hofland,Mixed,205844,"['1165', '339', '415', '29', '0']","['33', '3', '24']",0,10
+The Northern Horde,4,0,0,0,90,5000000,94363,80,Mix1,Tier8,Horde,Soutbouton,Inuk,49896,"[‘0’, ‘0’, ‘800’, ‘0’, ‘0’]","[‘0’, ‘0’, ‘0’]",0,0
+The Principality Bienalbia,16,0,0,0,15,0,1959475,50,Ind2,Tier9,Principality,Cartajuruei,Bienian,109323,"['655', '290', '80', '30', '0']","['42', '9', '33']",0,85
+The Seageltian League,8,0,0,0,50,0,905935,35,Rural2,Tier2,League,Hobyden,Vikrock,116298,"['777', '310', '110', '31', '0']","['15', '2', '5']",0,20
+The Seageltian Republic,2,0,0,0,100,0,45024,10,Rural2,Tier2,Republic,Kvasden,Vikrock,6021,"[‘480’, ‘118’, ‘50’, ‘17’, ‘1042’]","[‘4’, ‘0’, ‘2’]",0,50
+The United Tribes,2,0,0,0,45,250000,289773,50,Rural1,Tier3,United Tribes,Tinrafher,Mixed,80829,"['306', '200', '39', '7', '0']","['0', '0', '0']",0,15
+Tinarma,10,0,0,0,30,0,235388,80,Rural3,Tier8,Duchy,Akhinar,Tinarman,10944,"['240', '45', '10', '15', '0']","['13', '0', '3']",0,70
+Veizlaland,5,0,0,0,30,0,160622,50,Rural2,Tier1,United Tribes,Blonnogar,Vikrock,26883,"[‘70’, ‘10’, ‘0’, ‘0’, ‘0’]","[‘29’, ‘1’, ‘0’]",0,10
+Kingdom of Gausia,12,0,0,0,30,0,144600,60,Rural3,Tier6,Kingdom,Rotfel,Gausian,12672,"['213', '72', '31', '1', '0']","['22', '2', '13']",0,50
+Tilyzaf,7,0,0,0,30,0,107684,50,Rural2,Tier5,Duchy,Birom,Gausian,10413,"['63', '20', '14', '2', '0']","['7', '0', '2']",0,60
+Chartenia,6,0,0,0,30,0,50654,50,Rural2,Tier5,Empire,Tilyfel,Gausian,6174,"['43', '12', '10', '2', '0']","['16', '0', '1']",0,75
+Graselvelt,7,0,0,0,30,0,87259,50,Rural2,Tier5,Republic,Graselfel,Gausian,8001,"['43', '12', '10', '2', '0']","['13', '0', '10']",0,60
